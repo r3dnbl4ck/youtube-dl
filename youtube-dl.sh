@@ -51,4 +51,4 @@ sleep 3
 
 kill "$!" # kill the spinner
 
-./youtube-dl
+./youtube-dl.sh
