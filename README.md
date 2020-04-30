@@ -5,5 +5,5 @@ Install youtube-dl :
 
 
 Launch the script :
-  chmod +x youtube-dl
+  chmod +x youtube-dl.sh
   ./youtube-dl.sh
